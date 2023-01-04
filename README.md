@@ -1,5 +1,7 @@
 Olá!
 
-Este perfil irá registrar os meus projetos na área de desenvolvimento de software e engenharia de dados.
+Seja bem vindo!
 
-Sou Técnico em Engenheiro de Automação Industrial, atuo na área de manutenção da indústria quimíca, petróleo e gás há 5 anos. Dentro das unidades fabris pude perceber como os dados são preciosos para embasar decisões críticas automáticas ou humanas, e gerar insights de melhorias para as empresas/sociedade. Desde criança sempre gostei de entender "como tudo funciona" e esta característica despertou minha curiosidade e interesse pelos dados desde a sua extração, tratamento até a tomada de decisão, por estes motivos estou em busca de realizar uma transição de carreira para atuar nesta área.
+Meu nome é Gustavo, sou Engenheiro e Automação e Pós-Graduando em Engenharia de Software. Atualmente trabalho como analista de dados, focado em desenvolvimento de pipelines desde a extração até o delivery dos dados.
+
+Este perfil registra meus projetos, basta navegar nos repositórios e qualquer dúvida pode registrar uma issue.
